@@ -1,8 +1,10 @@
 cabal-version: 1.12
 
--- This file has been generated from package.yaml by hpack version 0.34.4.
+-- This file has been generated from package.yaml by hpack version 0.33.0.
 --
 -- see: https://github.com/sol/hpack
+--
+-- hash: a99a692c4242749c61f6c14c6d4a9aae1cfdf35428e3d1f13f04f54f98862b88
 
 name:           enzyme
 version:        0.1.0.0
